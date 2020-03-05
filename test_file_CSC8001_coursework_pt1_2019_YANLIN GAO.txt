@@ -1,0 +1,477 @@
+ Office.main({ });
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     2
+Handball                    66
+Tennis                       8
+Volleyball                  41
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith
+Emma Williams
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Williams
+Anna Williams is not registered client.
+Please check and enter again
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Swimming
+Swimming is not on the list of available events;
+Please check and enter again
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Football
+Please input the number of tickets you want to book;
+10
+Sorry, order declined. Please check the reminder.
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Simth
+Enter the name of event that you want to book, and press Enter;
+Football
+Please input the number of tickets you want to book;
+2
+Anna Simth booked 2 tickets of Football successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     0
+Handball                    66
+Tennis                       8
+Volleyball                  41
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Football, 2)}
+Emma Williams
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Tennis
+Please input the number of tickets you want to book;
+3
+Anna Smith booked 3 tickets of Tennis successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Handball
+Please input the number of tickets you want to book;
+10
+Anna Smith booked 10 tickets of Handball successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     0
+Handball                    56
+Tennis                       5
+Volleyball                  41
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Tennis, 3), (Handball, 10), (Football, 2)}
+Emma Williams
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Handball
+Please input the number of tickets you want to book;
+6
+Anna Smith booked 6 tickets of Handball successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     0
+Handball                    50
+Tennis                       5
+Volleyball                  41
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Tennis, 3), (Handball, 16), (Football, 2)}
+Emma Williams
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Volleyball
+Sorry, Anna Smith has book three events.
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Emma
+Williams
+Enter the name of event that you want to book, and press Enter;
+football
+Please input the number of tickets you want to book;
+1
+Emma Williams booked 1 tickets of football successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+b
+Enter person's firstname and surname respectively, and press Enter;
+Emma
+Williams
+Enter the name of event that you want to book, and press Enter;
+Tennis
+Please input the number of tickets you want to book;
+2
+Emma Williams booked 2 tickets of Tennis successfully!
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     0
+Handball                    50
+Tennis                       3
+Volleyball                  40
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Tennis, 3), (Handball, 16), (Football, 2)}
+Emma Williams, {(Tennis, 2), (football, 1)}
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+r
+Enter person's firstname and surname respectively, and press Enter;
+John
+Williams
+Sorry, John Williams has not booked any ticket yet
+Enter the name of event that you want to book, and press Enter;
+Anna
+John Williams has not booked ticket of Anna
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+r
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Tennis
+Please input the number of tickets you want to cancel
+4
+Order declined.
+Sorry, order declined;
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+r
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Tennis
+Please input the number of tickets you want to cancel
+1
+Anna Smith has removed 1 ticket of Tennis.
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     0
+Handball                    50
+Tennis                       4
+Volleyball                  40
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Tennis, 2), (Handball, 16), (Football, 2)}
+Emma Williams, {(Tennis, 2), (football, 1)}
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+r
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Football
+Please input the number of tickets you want to cancel
+2
+Anna Smith has removed the oroder of Football.
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+e
+Athletics                    4
+Equestrian Jumping           7
+Football                     2
+Handball                    50
+Tennis                       4
+Volleyball                  40
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+c
+Anna Smith, {(Tennis, 2), (Handball, 16)}
+Emma Williams, {(Tennis, 2), (football, 1)}
+John Williams
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+r
+Enter person's firstname and surname respectively, and press Enter;
+Anna
+Smith
+Enter the name of event that you want to book, and press Enter;
+Football
+Anna Smith has not booked ticket of Football
+--------------------------------------------------------------------------------------
+MENU
+f - to finish running the program;
+e - to display on the screen the information about all the events;
+c - to display on the screen the information about all the clients;
+b - to update the stored data when tickets are bought by one of the registered clients;
+r - to update the stored data when a registered client cancels/returns tickets;
+--------------------------------------------------------------------------------------
+Type a letter and press Enter
+f
+    VM terminated.

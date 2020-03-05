@@ -1,0 +1,10 @@
+Anna Smith failed to book ticket of Football, since there is no enough tickets of Football.
+Athletics                    4
+Equestrian Jumping           7
+Football                     2
+Handball                    50
+Tennis                       4
+Volleyball                  40
+Anna Smith, {(Tennis, 2), (Handball, 16)}
+Emma Williams, {(Tennis, 2), (football, 1)}
+John Williams
